@@ -18,7 +18,9 @@ This module creates a supercut of the clips, as well as a short introduction tha
 
 After human QC review, the videos are then posted on [https://www.youtube.com/c/AmericanPronunciationGuide](https://www.youtube.com/c/AmericanPronunciationGuide).
 
+## Contacting the American Pronunciation Guide
 
+Any inquiries can be directed to AmericanPronunciationGuide@gmail.com.
 
 
 
