@@ -3,7 +3,7 @@ This repository is for software used in connnection with the production of Ameri
 
 ## What is the American Pronunciation Guide?
 
-The American Pronunciation Guide is a YouTube channnel devoted to descriptive linguistics--i.e., the study of the internal phonological, grammatical, and semantic structures of languages without reference to the history of the language or comparison with other languages. Accordingly, we believe that the best way to learn how to pronounce a word is to listen to how our peers say it.  To help foster such descriptive learning, APG publishes videos combining relevant clips from popular culture. You can check out our channel at [https://www.youtube.com/c/AmericanPronunciationGuide](https://www.youtube.com/c/AmericanPronunciationGuide). We hope you enjoy!
+The American Pronunciation Guide is a YouTube channnel devoted to descriptive linguistics--i.e., the study of the internal phonological, grammatical, and semantic structures of languages without reference to the history of the language or comparison with other languages. Accordingly, we believe that the best way to learn how to pronounce a word is to listen to how our peers say it.  To help foster such descriptive learning, APG publishes videos combining relevant clips from popular culture. You can check out our channel at [https://www.youtube.com/c/AmericanPronunciationGuide](https://www.youtube.com/c/AmericanPronunciationGuide) and watch a video explaining our philosophy at [https://www.youtube.com/watch?v=ZGR5jq6BmKc](https://www.youtube.com/watch?v=ZGR5jq6BmKc). We hope you enjoy!
 
 ## Repository Contents
 
