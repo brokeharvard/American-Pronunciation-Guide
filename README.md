@@ -10,7 +10,7 @@ The American Pronunciation Guide is a YouTube channnel devoted to descriptive li
 Our software includes two key modules (among others):
 
 ### (1) Search Module
-This module helps search YouTube video transcripts to identify clips from popular videos in which a given word is pronounced. The search process is not fully automated. Rather, the Search Module helps identify potential clips for use by the Supercut/Videogrep Module, which clips are then reviewed by a human who determines which clips accurately reflect the pronunciation(s) of the given word that are generally accepted in Americann popular culture. The clips selected by the human are then fed into the Supercut/Videogrep Module.
+This module helps search YouTube video transcripts to identify clips from popular videos in which a given word is pronounced. The search process is not fully automated. Rather, the Search Module helps identify potential clips for use by the Supercut/Videogrep Module, which clips are then reviewed by a human who determines which clips accurately reflect the pronunciation(s) of the given word that are generally accepted in American popular culture. The clips selected by the human are then fed into the Supercut/Videogrep Module.
 
 ### (2) Supercut/Videogrep Module
 
